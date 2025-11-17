@@ -5,3 +5,5 @@ SpeechRecognition==3.8.1
 pydub==0.25.1
 werkzeug==2.3.7
 flask-jwt-extended==4.6.0
+PyAudio==0.2.11
+standard-aifc==3.13.0
