@@ -7,16 +7,4 @@ werkzeug==2.3.7
 flask-jwt-extended==4.6.0
 PyAudio==0.2.11
 standard-aifc==3.13.0
-=======
-Flask==2.3.3
-flask-cors==4.0.0
-python-dotenv==1.0.0
-speechrecognition==3.10.0
-pydub==0.25.1
-werkzeug==2.3.7
-flask-jwt-extended==4.6.0
-PyAudio==0.2.11
-standard-aifc==3.13.0
-=======
-PyAudio==0.2.11
->>>>>>> 57b40e4505dc2a3aab680d1e4ed5e3803af88806
+
